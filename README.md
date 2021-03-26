@@ -13,6 +13,51 @@
 
 # Skills
 
+
+
+### Front
+-------
+:heavy_check_mark: Typescript
+
+:heavy_check_mark: Vue JS (2 and 3 + api composition)
+
+:heavy_check_mark: Nuxt
+
+:heavy_check_mark: Sass
+
+### Back
+-------
+:heavy_check_mark: Typescript
+
+:heavy_check_mark: Node JS
+
+:heavy_check_mark: Express JS
+
+:heavy_check_mark: Nest JS
+
+:heavy_check_mark: Graphql/Apollo
+
+### Database
+-------
+
+:heavy_check_mark: MongoDB/Mongoose
+
+:heavy_check_mark: Mysql/Sequelize
+
+### Testing
+-------
+
+:heavy_check_mark: Jest
+
+### Tool
+-------
+
+:heavy_check_mark: Webpack
+
+:heavy_check_mark: Babel
+
+:heavy_check_mark: Git/Github
+
 # Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliendu11&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

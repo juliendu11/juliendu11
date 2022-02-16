@@ -9,7 +9,6 @@
 - 🔭 I’m currently working on VUE JS (3)/Nuxt with API Composition, express and mongoDB with mongoose
 - 👯 I’m looking to collaborate on consequent application projects that will allow me to improve myself
 - 📫 How to reach me: ares11@outlook.fr or julien.dacosta1@outlook.fr
-- 😄 Pronouns: he/him/his
 
 # Skills
 

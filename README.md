@@ -1,6 +1,6 @@
 # Hi there. My name is Julien Da costa 👋
 
-* I am a FullStack JS web developer with 3 years of experience.
+* I am a FullStack JS web developer with 4 years of experience.
 * I am a self-taught developer.
 * I started programming with C# for desktop software (WinForm then WPF) I really like C# but I turned to web technology.
 * I like to develop large scale applications.
@@ -8,7 +8,9 @@
 
 - 🔭 I’m currently working on VUE JS (3)/Nuxt with API Composition, express and mongoDB with mongoose
 - 👯 I’m looking to collaborate on consequent application projects that will allow me to improve myself
-- 📫 How to reach me: ares11@outlook.fr or julien.dacosta1@outlook.fr
+- 📫 How to reach me: ares11@outlook.fr or julien.dacosta1@outlook.fr or https://www.linkedin.com/in/julien-da-costa-b71435202/
+
+### :construction_worker: I currently work at [TempIn](https://tempin.io/)
 
 # Skills
 

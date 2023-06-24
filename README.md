@@ -1,12 +1,12 @@
 # Hi there. My name is Julien Da costa 👋
 
-* I am a FullStack JS web developer with 4 years of experience.
+* I am a FullStack JS web developer with 5 years of experience.
 * I am a self-taught developer.
 * I started programming with C# for desktop software (WinForm then WPF) I really like C# but I turned to web technology.
 * I like to develop large scale applications.
 * I also like integration with Vanilla CSS or SASS
 
-- 🔭 I’m currently working on VUE JS (3)/Nuxt with API Composition, express and mongoDB with mongoose
+- 🔭 I’m currently working on VUE JS (3)/Nuxt with API Composition
 - 👯 I’m looking to collaborate on consequent application projects that will allow me to improve myself
 - 📫 How to reach me: ares11@outlook.fr or julien.dacosta1@outlook.fr or https://www.linkedin.com/in/julien-da-costa-b71435202/
 
@@ -27,6 +27,8 @@
 
 :heavy_check_mark: Nuxt
 
+:heavy_check_mark: Quasar
+
 :heavy_check_mark: Sass
 
 ### Back
@@ -44,14 +46,18 @@
 ### Database
 -------
 
-:heavy_check_mark: MongoDB/Mongoose
-
-:heavy_check_mark: Mysql/Sequelize
+:heavy_check_mark: Mysql/Sequelize/TypeORM
 
 ### Testing
 -------
 
 :heavy_check_mark: Jest
+
+:heavy_check_mark: Cypress
+
+:heavy_check_mark: Testing library
+
+:heavy_check_mark: Mock Service Worker
 
 ### Tool
 -------
@@ -61,6 +67,8 @@
 :heavy_check_mark: Babel
 
 :heavy_check_mark: Git/Github
+
+:heavy_check_mark: Docker
 
 # Stats
 

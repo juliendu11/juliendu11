@@ -47,7 +47,7 @@ const julien = {
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,redis&theme=dark" alt="backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,adonis,express,postgres,mysql,redis&theme=dark" alt="backend" />
 
 **Outils & DevOps**
 
@@ -67,23 +67,30 @@ const julien = {
 
 <div align="center">
 
-<a href="https://github.com/juliendu11/Mir-Mockup-3D">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliendu11&repo=Mir-Mockup-3D&theme=tokyonight&hide_border=true" alt="Mir-Mockup-3D" />
+<a href="https://habits-hero.fr/">
+  <img src="https://img.shields.io/badge/🦸_Habits_Hero-habits--hero.fr-42b883?style=for-the-badge" alt="Habits Hero" />
 </a>
-<a href="https://github.com/juliendu11/Verto">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliendu11&repo=Verto&theme=tokyonight&hide_border=true" alt="Verto" />
+
+<br/><br/>
+
+<a href="https://github.com/juliendu11/accounting">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliendu11&repo=accounting&theme=tokyonight&hide_border=true" alt="accounting" />
 </a>
-<a href="https://github.com/juliendu11/Instagram-Downloader">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliendu11&repo=Instagram-Downloader&theme=tokyonight&hide_border=true" alt="Instagram-Downloader" />
+<a href="https://github.com/juliendu11/observatio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliendu11&repo=observatio&theme=tokyonight&hide_border=true" alt="observatio" />
+</a>
+<a href="https://github.com/juliendu11/time-tracking">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliendu11&repo=time-tracking&theme=tokyonight&hide_border=true" alt="time-tracking" />
 </a>
 
 </div>
 
 | Projet | Description | Stack |
 | ------ | ----------- | ----- |
-| 🎨 **Mir-Mockup-3D** | Générateur de mockups 3D web pour le marketing | Vue, Three.js |
-| 🔄 **Verto** | Convertisseur d'images 100 % côté client | Vue |
-| 📸 **Instagram-Downloader** | Télécharge photos et vidéos Instagram (archivé) | JavaScript |
+| 🦸 [**Habits Hero**](https://habits-hero.fr/) | Application gratuite de suivi d'habitudes gamifiée (XP, séries, coffres, rappels, compagnon IA) | Web |
+| 💰 [**accounting**](https://github.com/juliendu11/accounting) | Outil de comptabilité auto-hébergé pour micro-entrepreneur : suivi des revenus et dépenses | AdonisJS, Inertia, Vue, Quasar, MariaDB |
+| 📹 [**observatio**](https://github.com/juliendu11/observatio) | Toutes tes caméras de surveillance au même endroit | AdonisJS, Inertia, FFmpeg, RTSP/HLS, Docker |
+| ⏱️ [**time-tracking**](https://github.com/juliendu11/time-tracking) | App desktop locale et hors-ligne pour suivre le temps passé sur tes projets | Electron, Vue 3, TypeScript, SQLite, Drizzle |
 
 ---
 
@@ -98,10 +105,6 @@ const julien = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliendu11&theme=tokyonight&hide_border=true" alt="streak" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=juliendu11&theme=onedark&no-frame=true&row=1&column=7&margin-w=10" alt="trophies" />
-
 </div>
 
 ---
@@ -114,24 +117,16 @@ const julien = {
 
 </div>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/juliendu11/juliendu11/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-</div>
-
-> 🐍 L'animation « snake » nécessite la GitHub Action `Platane/snk` (voir les notes en bas du fichier).
-
 ---
 
 ## 📫 Me contacter
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/TON-PROFIL">
+<a href="https://www.linkedin.com/in/julien-da-costa-b71435202/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://TON-SITE.com">
+<a href="https://julien-dacosta.dev/">
   <img src="https://img.shields.io/badge/Portfolio-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Portfolio" />
 </a>
 <a href="mailto:jujudacosta11800@gmail.com">
@@ -154,30 +149,9 @@ NOTES POUR TOI (à supprimer avant publication) :
 
 2. Remplace les liens TON-PROFIL (LinkedIn) et TON-SITE.com (portfolio).
 
-3. Animation snake (optionnel) : crée .github/workflows/snake.yml dans ce dépôt :
-
-   name: Generate snake
-   on:
-     schedule: [{ cron: "0 0 * * *" }]
-     workflow_dispatch:
-   permissions:
-     contents: write
-   jobs:
-     generate:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: Platane/snk/svg-only@v3
-           with:
-             github_user_name: ${{ github.repository_owner }}
-             outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-         - uses: crazy-max/github-pages-deploy-action@v4
-           with:
-             branch: output
-             folder: dist
-
-4. Les services github-readme-stats / streak-stats (Vercel/Heroku) sont parfois
+3. Les services github-readme-stats / streak-stats / activity-graph sont parfois
    lents ou rate-limités ; si une carte ne s'affiche pas, recharge plus tard.
 
-5. Ajuste les icônes skillicons à ta stack réelle (je n'ai déduit que Vue/JS/Adonis/C#
+4. Ajuste les icônes skillicons à ta stack réelle (je n'ai déduit que Vue/JS/Adonis/C#
    de ton profil actuel).
 -->

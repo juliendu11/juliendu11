@@ -113,7 +113,7 @@ const julien = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=juliendu11&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
+<img src="https://github-act-graph.rodriaum.com/graph?username=juliendu11&bg_color=2c3e50&color=41b883&line=41b883&point=f6f8fa&area=true&hide_border=true" alt="activity graph" width="100%" />
 
 </div>
 
@@ -129,7 +129,7 @@ const julien = {
 <a href="https://julien-dacosta.dev/">
   <img src="https://img.shields.io/badge/Portfolio-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Portfolio" />
 </a>
-<a href="mailto:jujudacosta11800@gmail.com">
+<a href="mailto:julien.dacosta1@outlook.">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 

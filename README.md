@@ -1,25 +1,183 @@
-# Hi there. My name is Julien Da costa 👋
+<div align="center">
 
-* I am a FullStack JS web developer with 5 years of experience.
-* I am a self-taught developer.
-* I started programming with C# for desktop software (WinForm then WPF) I really like C# but I turned to web technology.
-* I like to develop large scale applications.
-* I also like integration with Vanilla CSS or SASS
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Julien%20Da%20Costa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FullStack%20JS%20Developer%20•%20Vue.js%20•%20Node.js&descAlignY=60&descSize=20" alt="header" />
 
-- 🔭 I’m currently working on VUE JS (3) with API Composition also Adonis and Inertia
-- 👯 I’m looking to collaborate on consequent application projects that will allow me to improve myself
-- 📫 How to reach me: julien.dacosta1@outlook.fr or https://www.linkedin.com/in/julien-da-costa-b71435202/ or <a href="https://julien-dacosta.dev/">My website</a>
+<a href="https://github.com/juliendu11">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=42B883&center=true&vCenter=true&width=600&lines=Salut+%F0%9F%91%8B+Je+suis+Julien;D%C3%A9veloppeur+FullStack+JS+%E2%80%94+5+ans+d'exp%C3%A9rience;Autodidacte+%26+passionn%C3%A9+par+le+web;Toujours+%C3%A0+la+recherche+de+nouveaux+d%C3%A9fis+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-### 🌐 [My website](https://julien-dacosta.dev/)
+<br/>
 
-# Skills
+![Profile views](https://komarev.com/ghpvc/?username=juliendu11&label=Profile%20views&color=42b883&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/juliendu11?style=for-the-badge&logo=github&color=35495e)
+![Stars](https://img.shields.io/github/stars/juliendu11?style=for-the-badge&logo=starship&color=f1c40f)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juliendu11&label=Profile%20views&color=0e75b6&style=flat" alt="juliendu11" /> </p>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juliendu11" alt="juliendu11" /></a> </p>
+---
 
-# Stats
+## 👨‍💻 À propos de moi
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juliendu11&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+```js
+const julien = {
+  nom: "Julien Da Costa",
+  localisation: "France 🇫🇷",
+  role: "Développeur FullStack JavaScript",
+  experience: "5 ans",
+  parcours: "Autodidacte — du desktop C# au web moderne",
+  actuellement: ["Vue.js 3 (Composition API)", "AdonisJS", "Inertia"],
+  recherche: "Collaborer sur des applications d'envergure 🏗️",
+};
+```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliendu11)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 Je travaille actuellement avec **Vue 3 (Composition API)**, **AdonisJS** et **Inertia**
+- 🌱 Autodidacte, parti du logiciel desktop en **C#** avant de me spécialiser dans le web
+- 🤝 Je cherche à **collaborer sur des projets d'ampleur** pour continuer à progresser
+- 💬 Parlons de web, d'architecture, de DX… ou de tout autre sujet tech !
+
+---
+
+## 🛠️ Stack & Outils
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=vue,js,ts,html,css,sass,tailwind,vite&theme=dark" alt="frontend" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,redis&theme=dark" alt="backend" />
+
+**Outils & DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma&theme=dark" alt="tools" />
+
+**Et avant ça…**
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" alt="csharp" />
+
+</div>
+
+> 💡 Adapte la liste d'icônes à ta vraie stack : https://skillicons.dev
+
+---
+
+## 🚀 Projets mis en avant
+
+<div align="center">
+
+<a href="https://github.com/juliendu11/Mir-Mockup-3D">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliendu11&repo=Mir-Mockup-3D&theme=tokyonight&hide_border=true" alt="Mir-Mockup-3D" />
+</a>
+<a href="https://github.com/juliendu11/Verto">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliendu11&repo=Verto&theme=tokyonight&hide_border=true" alt="Verto" />
+</a>
+<a href="https://github.com/juliendu11/Instagram-Downloader">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliendu11&repo=Instagram-Downloader&theme=tokyonight&hide_border=true" alt="Instagram-Downloader" />
+</a>
+
+</div>
+
+| Projet | Description | Stack |
+| ------ | ----------- | ----- |
+| 🎨 **Mir-Mockup-3D** | Générateur de mockups 3D web pour le marketing | Vue, Three.js |
+| 🔄 **Verto** | Convertisseur d'images 100 % côté client | Vue |
+| 📸 **Instagram-Downloader** | Télécharge photos et vidéos Instagram (archivé) | JavaScript |
+
+---
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=juliendu11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliendu11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juliendu11&theme=tokyonight&hide_border=true" alt="streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=juliendu11&theme=onedark&no-frame=true&row=1&column=7&margin-w=10" alt="trophies" />
+
+</div>
+
+---
+
+## 📈 Activité
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juliendu11&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/juliendu11/juliendu11/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
+
+> 🐍 L'animation « snake » nécessite la GitHub Action `Platane/snk` (voir les notes en bas du fichier).
+
+---
+
+## 📫 Me contacter
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/TON-PROFIL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://TON-SITE.com">
+  <img src="https://img.shields.io/badge/Portfolio-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:jujudacosta11800@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br/><br/>
+
+*"Make it work, make it right, make it fast."* — Kent Beck
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
+
+<!--
+NOTES POUR TOI (à supprimer avant publication) :
+
+1. Le README de profil doit se trouver dans un dépôt PUBLIC nommé exactement
+   "juliendu11" (même nom que ton compte), à la racine : README.md
+
+2. Remplace les liens TON-PROFIL (LinkedIn) et TON-SITE.com (portfolio).
+
+3. Animation snake (optionnel) : crée .github/workflows/snake.yml dans ce dépôt :
+
+   name: Generate snake
+   on:
+     schedule: [{ cron: "0 0 * * *" }]
+     workflow_dispatch:
+   permissions:
+     contents: write
+   jobs:
+     generate:
+       runs-on: ubuntu-latest
+       steps:
+         - uses: Platane/snk/svg-only@v3
+           with:
+             github_user_name: ${{ github.repository_owner }}
+             outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+         - uses: crazy-max/github-pages-deploy-action@v4
+           with:
+             branch: output
+             folder: dist
+
+4. Les services github-readme-stats / streak-stats (Vercel/Heroku) sont parfois
+   lents ou rate-limités ; si une carte ne s'affiche pas, recharge plus tard.
+
+5. Ajuste les icônes skillicons à ta stack réelle (je n'ai déduit que Vue/JS/Adonis/C#
+   de ton profil actuel).
+-->
